@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Numbers_chain" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimaryVariant">@color/yellow</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/yellow</item>
+        <item name="colorSecondaryVariant">@color/yellow</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+<!--        <item name="android:windowAnimationStyle">@style/ActivityAnim</item>-->
+    </style>
+
+<!--    <style name="ActivityAnim" parent="@android:style/Animation.Activity">-->
+<!--        <item name="android:activityOpenEnterAnimation">@anim/slide_in</item>-->
+<!--        <item name="android:activityCloseEnterAnimation">@anim/slide_in</item>-->
+<!--        <item name="android:activityOpenExitAnimation">@anim/slide_out</item>-->
+<!--        <item name="android:activityCloseExitAnimation">@anim/slide_out</item>-->
+<!--    </style>-->
+
+</resources>

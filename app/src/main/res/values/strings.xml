@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Numbers chain</string>
+
+    <!--register activity >-->
+    <string name="fullName">FullName</string>
+    <string name="email">EmailAddress</string>
+    <string name="userName">UserName</string>
+    <string name="register_pass">Pass.</string>
+    <string name="register_repass">Re_Pass.</string>
+    <string-array name="countries">
+        <item>Palestine</item>
+        <item>Egypt</item>
+        <item>Syria</item>
+        <item>Lebanon</item>
+        <item>Jordan</item>
+        <item>Turkey</item>
+    </string-array>
+    <string name="birthDay">Birthdate</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="btn_save">Save</string>
+
+    <!--login activity >-->
+    <string name="tv_login_btn">Login</string>
+    <string name="pleaseSignIn">Please sign in to continue</string>
+    <string name="login_pass">Password</string>
+    <string name="check">Remember me?</string>
+    <string name="tv_account">Dont have an a account?</string>
+    <string name="btn_register">Sign up</string>
+
+    <!--Game activity >-->
+    <string name="score">Score</string>
+    <string name="welcome">Welcome...</string>
+    <string name="btn_check">Check</string>
+    <string name="enter_num">Enter a number</string>
+    <string name="btn_newGame">New game</string>
+
+    <!--setting activity >-->
+    <string name="all_games">Show all games</string>
+    <string name="last_game_date">Show last game date</string>
+    <string name="change_password">Change password</string>
+    <string name="clear_game">Clear game history</string>
+
+
+    <!--change pass activity >-->
+    <string name="old_pass">Old Password</string>
+    <string name="new_pass">New Password</string>
+    <string name="new_repass">Confirm the new password</string>
+    <string name="btn_confirmation">Confirmation</string>
+
+    <!--option menu >-->
+    <string name="setting_activity">Settings Activity</string>
+    <string name="log_out">Log out</string>
+
+    <string name="splash_number">Numbers</string>
+    <string name="splash_chain">chain</string>
+
+
+</resources>

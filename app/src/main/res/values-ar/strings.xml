@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Numbers chain</string>
+
+    <!--register activity >-->
+    <string name="fullName">الاسم كاملا</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="register_pass">كلمة المرور</string>
+    <string name="register_repass"> تأكيد كلمة المرور</string>
+    <string name="birthDay">تاريخ الميلاد</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="btn_save">حفظ</string>
+    <string-array name="countries">
+        <item>فلسطين</item>
+        <item>مصر</item>
+        <item>سوريا</item>
+        <item>لبنان</item>
+        <item>الأردن</item>
+        <item>تركيا</item>
+    </string-array>
+
+    <!--login activity >-->
+    <string name="tv_login_btn">تسجيل دخول</string>
+    <string name="pleaseSignIn">من فضلك سجل دخولك للمتابعة</string>
+    <string name="login_pass">كلمة المرور</string>
+    <string name="check">تذكرني؟</string>
+    <string name="tv_account">لا تملك حساب؟</string>
+    <string name="btn_register">اشتراك</string>
+
+    <!--Game activity >-->
+    <string name="score">النتيجة</string>
+    <string name="welcome">أهلا بك...</string>
+    <string name="btn_check">التحقق</string>
+    <string name="enter_num">أدخل رقم</string>
+    <string name="btn_newGame">لعبة جديدة</string>
+
+    <!--setting activity >-->
+    <string name="all_games">عرض جميع الألعاب</string>
+    <string name="last_game_date">تاريخ آخر لعبة</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="clear_game">حذف جميع الألعاب</string>
+
+    <!--change pass activity >-->
+    <string name="old_pass">كلمة المرور القديمة </string>
+    <string name="new_pass">كلمة المرور الجديدة</string>
+    <string name="new_repass">تأكيد كلمة المرور</string>
+    <string name="btn_confirmation">تأكيد</string>
+
+    <!--option menu >-->
+    <string name="setting_activity">شاشة الإعدادات</string>
+    <string name="log_out">تسجيل خروج</string>
+
+    <string name="splash_number">الأرقام</string>
+    <string name="splash_chain">سلسلة</string>
+</resources>
